@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'BankGothicRegular';
+	src: url('./BankGothicRegular.eot');
+	src: local('BankGothicRegular'), url('./BankGothicRegular.woff') format('woff'), url('./BankGothicRegular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_10279">Text with this font applied</p> */
+.aces-txt {
+	font-family: 'BankGothicRegular' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

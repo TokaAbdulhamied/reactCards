@@ -1,0 +1,43 @@
+.login-form {
+  border: 100px;
+}
+.login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+#WrappedNormalLoginForm{
+	margin-top: 300px;
+	padding-top: 300px;
+}
+#menna{
+	
+	border-color: #009B4B;
+
+}
+
+#s4{
+	margin-bottom: 30px;
+	color: #009B4B;
+	text-align: center;
+}
+#s5{
+	text-align: left;
+}
+#s6{
+	border-color: #009B4B;
+	text-align: center;
+}
+.ant-card-head{
+	background-color: #009B4B;
+	margin-left: 0px;
+}
+.ant-btn .ant-btn-default{
+   float: center;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+	-webkit-appearance: none;
+	margin: 0;
+}
